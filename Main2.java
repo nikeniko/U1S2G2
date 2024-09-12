@@ -17,7 +17,7 @@ public class Main2 {
         visualizzaLista(specchiata);
 
         System.out.println("-------------------- FUNZIONE 3 ----------------------");
-        mostraIndiciDispariPari(specchiata, false); 
+        mostraIndiciDispariPari(specchiata, false);
         mostraIndiciDispariPari(specchiata, true);
 
         scanner.close();
